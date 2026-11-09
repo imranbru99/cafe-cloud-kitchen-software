@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "cafe-cloud-kitchen-software",
+  "description": "Cafe & Cloud Kitchen Software — Hospitality Laravel Filament ERP/SaaS for Bangladesh (Dhaka). Cafe/cloud kitchen for online orders, recipes, delivery partners, and outlet stock. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "hospitality",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/cafe-cloud-kitchen-software"
+}
